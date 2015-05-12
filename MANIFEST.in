@@ -1,0 +1,11 @@
+include LICENSE.txt
+include MANIFEST.in
+include README
+include VERSION
+include contributors.txt
+include nekbot/__init__.py
+include nekbot/plugins/__init__.py
+include nekbot/plugins/polls/__init__.py
+include requirements.txt
+include setup.cfg
+include setup.py

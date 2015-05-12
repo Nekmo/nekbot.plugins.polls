@@ -1,0 +1,18 @@
+
+# use glob syntax.
+syntax: glob
+
+*.elc
+*.pyc
+*~
+docs/_build
+build
+dist
+*.egg-info
+
+# switch to regexp syntax.
+syntax: regexp
+.idea
+.directory
+.pypirc
+^settings.py

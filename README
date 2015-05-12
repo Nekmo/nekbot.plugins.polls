@@ -1,0 +1,16 @@
+NekBot polls
+######################
+polls plugin. Nekbot, a modular and multiprotocol bot written in Python.
+
+Usage::
+
+    ...
+
+Example::
+
+    ...
+
+
+You need NekBot to use this plugin. This plugin does not work without NekBot.
+
+https://bitbucket.org/Nekmo/nekbot-mirai/
